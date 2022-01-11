@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ## Welcome to Emirs portfolio
+=======
+## Welcome to  Emirs portfolio
+
+You can use the [editor on GitHub](https://github.com/EmirArslann/exercise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+>>>>>>> 840fbadfc13026fe4240653e5063bce0d2a2ac7b
 
 Its Emir from Turkey. I am 22
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
