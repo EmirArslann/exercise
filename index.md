@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Welcome to My page
 
 ### This is Emir 
