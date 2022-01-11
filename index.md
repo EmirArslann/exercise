@@ -1,4 +1,4 @@
-## Welcome to Github pages
+## Welcome to  Emirs portfolio
 
 You can use the [editor on GitHub](https://github.com/EmirArslann/exercise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
